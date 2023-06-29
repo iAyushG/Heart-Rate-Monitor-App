@@ -20,10 +20,10 @@ Key Features:
 In summary, the Heart Rate Monitor App developed using Java and Gradle offers a powerful, reliable, and user-friendly solution for monitoring heart rate using the PPG technique. Whether you're an active individual or someone who wants to keep a close eye on their cardiovascular health, this app provides accurate heart rate measurements, personalized tracking, historical data analysis, and an overall enhanced user experience.
 
 Future Work:
-Enhanced Activity Tracking: The app could incorporate additional sensors or algorithms to detect and track specific activities, such as running, cycling, or sleep patterns. This would provide users with a more detailed analysis of their heart rate during different activities.
+1. Enhanced Activity Tracking: The app could incorporate additional sensors or algorithms to detect and track specific activities, such as running, cycling, or sleep patterns. This would provide users with a more detailed analysis of their heart rate during different activities.
 
-Health Insights and Recommendations: By leveraging machine learning and data analysis techniques, the app could offer personalized health insights and recommendations based on the user's heart rate data. This could include suggestions for optimizing workouts, managing stress levels, or identifying potential health risks.
+2. Health Insights and Recommendations: By leveraging machine learning and data analysis techniques, the app could offer personalized health insights and recommendations based on the user's heart rate data. This could include suggestions for optimizing workouts, managing stress levels, or identifying potential health risks.
 
-Social Integration and Challenges: Integrating social features into the app, such as leaderboards, challenges, or sharing options, could promote engagement and motivation among users. This would allow individuals to compare their heart rate data with friends or participate in friendly competitions to achieve fitness goals.
+3. Social Integration and Challenges: Integrating social features into the app, such as leaderboards, challenges, or sharing options, could promote engagement and motivation among users. This would allow individuals to compare their heart rate data with friends or participate in friendly competitions to achieve fitness goals.
 
-Expanded Compatibility: The video suggests expanding the app's compatibility to different platforms and devices, including smartwatches and other wearable technologies. This would enhance accessibility and cater to a wider range of users.
+4. Expanded Compatibility: The video suggests expanding the app's compatibility to different platforms and devices, including smartwatches and other wearable technologies. This would enhance accessibility and cater to a wider range of users.
