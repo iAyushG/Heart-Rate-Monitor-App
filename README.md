@@ -26,4 +26,4 @@ Future Work:
 
 3. Social Integration and Challenges: Integrating social features into the app, such as leaderboards, challenges, or sharing options, could promote engagement and motivation among users. This would allow individuals to compare their heart rate data with friends or participate in friendly competitions to achieve fitness goals.
 
-4. Expanded Compatibility: The video suggests expanding the app's compatibility to different platforms and devices, including smartwatches and other wearable technologies. This would enhance accessibility and cater to a wider range of users.
+4. Expanded Compatibility: Expanding the app's compatibility to different platforms and devices, including smartwatches and other wearable technologies. This would enhance accessibility and cater to a wider range of users.
